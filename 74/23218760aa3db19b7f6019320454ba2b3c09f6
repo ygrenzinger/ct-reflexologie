@@ -1,0 +1,19 @@
+.github/workflows/deploy-pages.yml
+  s_227c1d9a13c90c::t_328a9424810566 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7423218760aa3db19b7f6019320454ba2b3c09f6",
+  "prompts": {},
+  "sessions": {
+    "s_227c1d9a13c90c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08bcf-0ec7-7e62-8042-5eb45271135b",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Yannick Grenzinger <yannick.grenzinger@gmail.com>"
+    }
+  }
+}
