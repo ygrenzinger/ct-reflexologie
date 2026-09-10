@@ -1,0 +1,30 @@
+src/routes/reflexologie.tsx
+  s_227c1d9a13c90c::t_20708ba4ec46ea 3
+.github/workflows/deploy-pages.yml
+  s_227c1d9a13c90c::t_e755111c61c2b1 1-50
+src/routes/index.tsx
+  s_227c1d9a13c90c::t_20708ba4ec46ea 4
+src/main.tsx
+  s_227c1d9a13c90c::t_ba46cfb1c7f3ee 1-12
+vite.config.ts
+  s_227c1d9a13c90c::t_ba46cfb1c7f3ee 10,13-17
+  s_227c1d9a13c90c::t_20708ba4ec46ea 6-9,11,18
+src/routes/__root.tsx
+  s_227c1d9a13c90c::t_20708ba4ec46ea 14,26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "dfeb15b08f49a892534fe9bfa6c249cabcbb7550",
+  "prompts": {},
+  "sessions": {
+    "s_227c1d9a13c90c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08bcf-0ec7-7e62-8042-5eb45271135b",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Yannick Grenzinger <yannick.grenzinger@gmail.com>"
+    }
+  }
+}
