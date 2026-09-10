@@ -1,0 +1,217 @@
+.gitignore
+  s_1a802b528b23c8::t_2d676540a36399 39-41
+  s_1a802b528b23c8::t_533d14023fbe96 36-38
+  s_1a802b528b23c8::t_897962e0d76f30 42-44
+.npmrc
+  s_5c86902f8ab039::t_55f7bf49788c28 1-3
+.openai/hosting.json
+  s_5c86902f8ab039::t_975b5697ba5cb6 1-4
+README.md
+  s_5c86902f8ab039::t_84bc7ddc996468 1-117
+app/chatgpt-auth.ts
+  s_5c86902f8ab039::t_953b678be5f524 1-90
+build/sites-vite-plugin.LICENSE
+  s_5c86902f8ab039::t_9b0568b68e3d2c 1-21
+build/sites-vite-plugin.ts
+  s_5c86902f8ab039::t_80abc2aa8dd488 1-229
+cloudflare-env.d.ts
+  s_5c86902f8ab039::t_5306aeb0d69a1d 1-6
+components.json
+  s_5c86902f8ab039::t_a3936b602cdcb6 1-21
+components/ui/accordion.tsx
+  s_5c86902f8ab039::t_5bd5ddb2319f7d 1-66
+components/ui/alert-dialog.tsx
+  s_5c86902f8ab039::t_fd2914dd4f371a 1-196
+components/ui/alert.tsx
+  s_5c86902f8ab039::t_e96b512b92b98c 1-66
+components/ui/aspect-ratio.tsx
+  s_5c86902f8ab039::t_d00c9e2d835e05 1-11
+components/ui/attachment.tsx
+  s_5c86902f8ab039::t_9b9bd6742557a0 1-204
+components/ui/avatar.tsx
+  s_5c86902f8ab039::t_374ecca1da7ac1 1-109
+components/ui/badge.tsx
+  s_5c86902f8ab039::t_6c28c462868735 1-48
+components/ui/breadcrumb.tsx
+  s_5c86902f8ab039::t_48a463e481ee29 1-109
+components/ui/bubble.tsx
+  s_5c86902f8ab039::t_b843fe92b55140 1-125
+components/ui/button-group.tsx
+  s_5c86902f8ab039::t_6669185459eb81 1-83
+components/ui/button.tsx
+  s_5c86902f8ab039::t_d6a0bd4f3bdcaf 1-64
+components/ui/calendar.tsx
+  s_5c86902f8ab039::t_c4f5d55363f0a8 1-220
+components/ui/card.tsx
+  s_5c86902f8ab039::t_dfc090a9599ba9 1-92
+components/ui/carousel.tsx
+  s_5c86902f8ab039::t_0a036e908d0f81 1-241
+components/ui/chart.tsx
+  s_5c86902f8ab039::t_8218db11d81c88 1-377
+components/ui/checkbox.tsx
+  s_5c86902f8ab039::t_fbec9afa11eb6f 1-32
+components/ui/collapsible.tsx
+  s_5c86902f8ab039::t_9af6deaa112b24 1-33
+components/ui/combobox.tsx
+  s_5c86902f8ab039::t_6c573536a32456 1-310
+components/ui/command.tsx
+  s_5c86902f8ab039::t_7fe304f7211635 1-184
+components/ui/context-menu.tsx
+  s_5c86902f8ab039::t_e6017629fa6c5f 1-252
+components/ui/dialog.tsx
+  s_5c86902f8ab039::t_d459276d042736 1-158
+components/ui/direction.tsx
+  s_5c86902f8ab039::t_47918abfd6b34f 1-22
+components/ui/drawer.tsx
+  s_5c86902f8ab039::t_c2fe5edb0bb53d 1-135
+components/ui/dropdown-menu.tsx
+  s_5c86902f8ab039::t_f5d34db1a066a8 1-257
+components/ui/empty.tsx
+  s_5c86902f8ab039::t_23af124e636304 1-104
+components/ui/field.tsx
+  s_5c86902f8ab039::t_afb3baa39f459a 1-248
+components/ui/form.tsx
+  s_5c86902f8ab039::t_0b37909de9157a 1-167
+components/ui/hover-card.tsx
+  s_5c86902f8ab039::t_6bb782d1210f93 1-44
+components/ui/input-group.tsx
+  s_5c86902f8ab039::t_560faa449a78d6 1-170
+components/ui/input-otp.tsx
+  s_5c86902f8ab039::t_acc5ae9b842393 1-77
+components/ui/input.tsx
+  s_5c86902f8ab039::t_40b5df08d502ff 1-21
+components/ui/item.tsx
+  s_5c86902f8ab039::t_910301c9075294 1-193
+components/ui/kbd.tsx
+  s_5c86902f8ab039::t_b2dfc861f1d678 1-28
+components/ui/label.tsx
+  s_5c86902f8ab039::t_61b77f5c229aa7 1-24
+components/ui/marker.tsx
+  s_5c86902f8ab039::t_30b82b376425b8 1-69
+components/ui/menubar.tsx
+  s_5c86902f8ab039::t_d7332f5d6cd5dc 1-276
+components/ui/message-scroller.tsx
+  s_5c86902f8ab039::t_4105e9fd368ce1 1-130
+components/ui/message.tsx
+  s_5c86902f8ab039::t_f43c916477e4a7 1-92
+components/ui/native-select.tsx
+  s_5c86902f8ab039::t_e5c2cb947014a1 1-62
+components/ui/navigation-menu.tsx
+  s_5c86902f8ab039::t_c0e94f969f7d5e 1-168
+components/ui/pagination.tsx
+  s_5c86902f8ab039::t_db3c9dca66cc1b 1-127
+components/ui/popover.tsx
+  s_5c86902f8ab039::t_96bb88bd530711 1-89
+components/ui/progress.tsx
+  s_5c86902f8ab039::t_9cac795252263e 1-32
+components/ui/radio-group.tsx
+  s_5c86902f8ab039::t_be904fdfd10e76 1-45
+components/ui/resizable.tsx
+  s_5c86902f8ab039::t_6b68e3952ee583 1-53
+components/ui/scroll-area.tsx
+  s_5c86902f8ab039::t_d0d87105c100a6 1-58
+components/ui/select.tsx
+  s_5c86902f8ab039::t_2a35e519439029 1-190
+components/ui/separator.tsx
+  s_5c86902f8ab039::t_9c74b1787cd7bf 1-28
+components/ui/sheet.tsx
+  s_5c86902f8ab039::t_b1b52b5dfd28d6 1-143
+components/ui/sidebar.tsx
+  s_5c86902f8ab039::t_d762ff49630340 1-723
+components/ui/skeleton.tsx
+  s_5c86902f8ab039::t_add55e310cea9e 1-13
+components/ui/slider.tsx
+  s_5c86902f8ab039::t_d72b5ee5f05d7d 1-63
+components/ui/sonner.tsx
+  s_5c86902f8ab039::t_b49d591ced8278 1-40
+components/ui/spinner.tsx
+  s_5c86902f8ab039::t_752af8630c7b58 1-16
+components/ui/switch.tsx
+  s_5c86902f8ab039::t_7a1416161b0ff1 1-35
+components/ui/table.tsx
+  s_5c86902f8ab039::t_5dd480103a8a4e 1-116
+components/ui/tabs.tsx
+  s_5c86902f8ab039::t_fe5bf969a042cc 1-91
+components/ui/textarea.tsx
+  s_5c86902f8ab039::t_e50964d8b2bce6 1-18
+components/ui/toggle-group.tsx
+  s_5c86902f8ab039::t_8ace29d4d11523 1-83
+components/ui/toggle.tsx
+  s_5c86902f8ab039::t_90b7cbf7c37b98 1-47
+components/ui/tooltip.tsx
+  s_5c86902f8ab039::t_f87b927e23552e 1-57
+db/index.ts
+  s_5c86902f8ab039::t_ccf81fea1bda61 1-13
+db/schema.ts
+  s_5c86902f8ab039::t_7f70ca3c0f273e 1-4
+drizzle.config.ts
+  s_5c86902f8ab039::t_8cf4497d2546b7 1-7
+drizzle/meta/_journal.json
+  s_5c86902f8ab039::t_5711b8915ee0b9 1-5
+eslint.config.mjs
+  s_5c86902f8ab039::t_a9fe3368bc483d 1-28
+examples/d1/app/api/notes/route.ts
+  s_5c86902f8ab039::t_3cbc91cbea4ef1 1-58
+examples/d1/db/schema.ts
+  s_5c86902f8ab039::t_dfc50bdb40694a 1-9
+hooks/use-mobile.ts
+  s_5c86902f8ab039::t_3e9df6ec6424c5 1-19
+lib/utils.ts
+  s_5c86902f8ab039::t_727966d98f008b 1-6
+next.config.ts
+  s_5c86902f8ab039::t_08d82f10964554 1-7
+package-lock.json
+  s_5c86902f8ab039::t_ecab744b14d389 1-16049
+package.json
+  s_5c86902f8ab039::t_04f07715da9918 1-66
+postcss.config.mjs
+  s_5c86902f8ab039::t_7c3b5fd6d993ae 1-7
+public/assets/logo-cream.svg
+  s_5c86902f8ab039::t_39c2617de132ef 1-3
+public/assets/logo.svg
+  s_5c86902f8ab039::t_6ce0abbf3bb233 1-3
+public/favicon.svg
+  s_5c86902f8ab039::t_dd11dc3fd95ecd 1-6
+public/file.svg
+  s_5c86902f8ab039::t_58d0b35e99e44e 1
+public/globe.svg
+  s_5c86902f8ab039::t_88122a672a0849 1
+public/window.svg
+  s_5c86902f8ab039::t_bf98e28ca94fbd 1
+scripts/install-ci.mjs
+  s_5c86902f8ab039::t_551ca8c2ecd641 1-42
+scripts/sites-env.mjs
+  s_5c86902f8ab039::t_3a3deed522e7eb 1-22
+src/routeTree.gen.ts
+  s_5c86902f8ab039::t_62f39e7e4c7b54 1-177
+tsconfig.json
+  s_5c86902f8ab039::t_03fbef398dd391 1-47
+vendor/shadcn-tailwind-4.13.0.LICENSE.md
+  s_5c86902f8ab039::t_a1d2d913fbd7d0 1-21
+vendor/shadcn-tailwind-4.13.0.css
+  s_5c86902f8ab039::t_292565b50683ba 1-629
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "11874c2968a5a368dd5f0b2b5a70a6db179bc1b4",
+  "prompts": {},
+  "sessions": {
+    "s_1a802b528b23c8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08bd2-1651-7041-96b3-0da11fd7547a",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Yannick Grenzinger <yannick.grenzinger@gmail.com>"
+    },
+    "s_5c86902f8ab039": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08b56-2375-73a3-b90d-a98c2612b30c",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Yannick Grenzinger <yannick.grenzinger@gmail.com>"
+    }
+  }
+}
