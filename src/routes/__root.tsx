@@ -11,7 +11,7 @@ function Shell() {
   return <div className="site-shell">
     <a className="skip-link" href="#contenu">Aller au contenu</a>
     <header className="site-header">
-      <Link to="/" className="brand" aria-label="CT Réflexologie — accueil"><img src="/assets/logo.svg" alt="CT Réflexologie" /></Link>
+      <Link to="/" className="brand" aria-label="CT Réflexologie — accueil"><img src={`${import.meta.env.BASE_URL}assets/logo.svg`} alt="CT Réflexologie" /></Link>
       <nav className={open ? 'main-nav is-open' : 'main-nav'} aria-label="Navigation principale">
         {links.map(([to, label]) => <Link key={to} to={to} activeProps={{ className: 'active' }} onClick={() => setOpen(false)}>{label}</Link>)}
         <Link className="nav-cta" to="/contact" onClick={() => setOpen(false)}>Prendre rendez-vous</Link>
@@ -23,7 +23,7 @@ function Shell() {
   </div>
 }
 
-function Footer() { return <footer className="site-footer"><div className="footer-grid"><div><img className="footer-logo" src="/assets/logo-cream.svg" alt="CT Réflexologie" /><p>Claire Thonnelier — Réflexologue plantaire certifiée, affiliée à la Fédération Française de Réflexologie.</p></div><div><h2>Le cabinet</h2><p>1 rue de la Halbarderie<br />44470 Thouaré-sur-Loire</p><a href="tel:+33684448183">06 84 44 81 83</a><br /><a href="mailto:contact@ct-reflexologie.fr">contact@ct-reflexologie.fr</a></div><div><h2>Horaires</h2><p>Lundi · 8h – 19h30<br />Mercredi matin · 8h – 13h30<br />Vendredi · 8h – 19h30<br />Samedi matin · 8h – 13h30</p></div></div><div className="footer-bottom"><span>© 2026 CT Réflexologie — Claire Thonnelier</span><Link to="/mentions-legales">Mentions légales</Link></div></footer> }
+function Footer() { return <footer className="site-footer"><div className="footer-grid"><div><img className="footer-logo" src={`${import.meta.env.BASE_URL}assets/logo-cream.svg`} alt="CT Réflexologie" /><p>Claire Thonnelier — Réflexologue plantaire certifiée, affiliée à la Fédération Française de Réflexologie.</p></div><div><h2>Le cabinet</h2><p>1 rue de la Halbarderie<br />44470 Thouaré-sur-Loire</p><a href="tel:+33684448183">06 84 44 81 83</a><br /><a href="mailto:contact@ct-reflexologie.fr">contact@ct-reflexologie.fr</a></div><div><h2>Horaires</h2><p>Lundi · 8h – 19h30<br />Mercredi matin · 8h – 13h30<br />Vendredi · 8h – 19h30<br />Samedi matin · 8h – 13h30</p></div></div><div className="footer-bottom"><span>© 2026 CT Réflexologie — Claire Thonnelier</span><Link to="/mentions-legales">Mentions légales</Link></div></footer> }
 
 export const Route = createRootRoute({
   head: () => ({
